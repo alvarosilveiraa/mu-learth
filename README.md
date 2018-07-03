@@ -1,5 +1,5 @@
-# Mu Learth
-> Horário e notificação de eventos
+# MuLearth
+> Horário e notificação de eventos.
 
 ## Starter
 ```

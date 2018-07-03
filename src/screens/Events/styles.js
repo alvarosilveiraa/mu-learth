@@ -47,5 +47,10 @@ export default StyleSheet.create({
   eventTimedownActive: {
     fontSize: 14,
     color: colors.light
+  },
+  loader: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center'
   }
 });

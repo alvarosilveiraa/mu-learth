@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919290512732",
+    "firebase_url": "https://mulearth-93850.firebaseio.com",
+    "project_id": "mulearth-93850",
+    "storage_bucket": "mulearth-93850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919290512732:android:f1e7998e8b5a0353",
+        "android_client_info": {
+          "package_name": "br.com.mulearth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919290512732-b4qhivreekb01vfvjju55h7rj9qhrtdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2rme7B65LVx8nGM7skPYVRZ52ewgM0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
