@@ -13,7 +13,7 @@ const reducers = combineReducers({
 const finalReducers = persistReducer({
   key: 'root',
   storage,
-  blacklist: []
+  blacklist: ['user', 'event']
 }, reducers);
 
 export default () => {

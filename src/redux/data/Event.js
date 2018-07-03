@@ -48,6 +48,18 @@ const INITIAL_STATE = Immutable({
       weekDays: [1, 1, 1, 1, 1, 1, 1]
     },
     {
+      name: 'Lorência Drop',
+      respawn: [
+        '00:00',
+        '04:00',
+        '08:00',
+        '12:00',
+        '16:00',
+        '20:00'
+      ],
+      weekDays: [1, 1, 1, 1, 1, 1, 1]
+    },
+    {
       name: 'Golden Invasion',
       respawn: [
         '00:25',
